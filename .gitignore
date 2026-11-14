@@ -1,5 +1,5 @@
 ### IntelliJ IDEA ###
-out/
+Activite5-1_Conversion/RMIConversion_Server/out/
 !**/src/main/**/out/
 !**/src/test/**/out/
 .kotlin
